@@ -1,6 +1,6 @@
 
 
-###     ⚒️ TOOLS I WORK WITH
+#     ⚒️ TOOLS I WORK WITH
 
 ![](https://img.shields.io/badge/%20-%20Discord.js-brightgreen) ![](https://img.shields.io/badge/%20-%20JavaScript-black)
 

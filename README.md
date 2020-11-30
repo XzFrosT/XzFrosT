@@ -46,8 +46,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Custom Cape MCPE](https://www.youtube.com/watch?v=lFF5jQeQuEs)
-- [1.7.10 Java Animation MCPE](https://www.youtube.com/watch?v=8qO5QmD5gfM)
+- [Custom Cape MCPE](https://youtu.be/UcVkV7vqIOs)
+- [1.7.10 Java Animation MCPE](https://youtu.be/A6hkKaN31X0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/XzFrosT)
@@ -60,10 +60,6 @@
   
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.xzfrost.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 

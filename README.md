@@ -5,9 +5,9 @@
 
 - 📫 Reach me at **[goelsujal9@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goelsujal9@gmail.com)**
 <br>
-<div align="left"><img src="https://discord.c99.nl/widget/theme-3/591416431598632980.png"></div>
+<div align="center"><img src="https://discord.c99.nl/widget/theme-3/591416431598632980.png" alt="XzFrosT Discord" ></div>
  <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=XzFrosT&show_icons=true&hide_border=true&theme=tokyonight" alt="XzFrosT Stats" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzFrosT&show_icons=true&hide_border=true&theme=tokyonight" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzFrosT&show_icons=true&hide_border=true&theme=tokyonight" alt="Most Used Language" /></p>
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">

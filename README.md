@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://instagram.com/mscihsnhrd" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/591416431598632980" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/mscihsnhrd" target="_blank"><img alt="
-
 </p>
+
+
+

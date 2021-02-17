@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm XzFrosT</h1>
 <h3 align="center">I'm an avid front end developer who is also interested in Discord bot development!</h3>
 
-- 👨‍💻 All of my projects are available at **[https://xzfrost.com](https://)**
+
 
 - 📫 Reach me at **[mschodeihsan@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mschodeihsan@gmail.com)**
 <br>

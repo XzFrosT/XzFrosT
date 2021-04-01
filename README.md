@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **[mschodeihsan@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mschodeihsan@gmail.com)**
 <br>
-<div align="center"><img src="https://discord.c99.nl/widget/theme-2/591416431598632980.png" a href="https://discord.com/users/591416431598632980"_target="blank" alt="XzFrosT Discord" ></div>
+<div align="center"><img src="https://discord.c99.nl/widget/theme-4/591416431598632980.png" a href="https://discord.com/users/591416431598632980"_target="blank" alt="XzFrosT Discord" ></div>
  <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=XzFrosT&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" alt="XzFrosT Stats" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzFrosT&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=00000000" alt="Most Used Language" /></p>
 
